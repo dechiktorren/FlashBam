@@ -1,3 +1,14 @@
+# Presentation of the 'FlashBam' project
+
+During my years of scouting, I saw how team games allow young people to integrate, but I also know that they are difficult to organize. Companies face the same problem: group activities, which would allow better team cohesion, are difficult to set up.
+
+Thus, it seemed interesting to me to develop a platform for multiplayer games in augmented reality, in order to meet this need. It would be enough for each player to put on a t-shirt or a badge with a QRCode, to arm his phone and to let himself be guided! This gaming platform is intended above all to be a "red thread" activity for business seminars, and to allow a better knowledge of colleagues. However, it may also be accessible to the general public, in order to facilitate student parties or other events.
+
+This folder contains the code for my MVP, which consists of an iOS app, as well as my business canva and my business plan.
+
+
+---------------
+
 # Présentation du projet 'FlashBam'
 
 Pendant mes années de scoutisme, j'ai pu constater à quel point les jeux d'équipe permettent aux jeunes de s'intégrer, mais je sais aussi qu'ils sont difficile à organiser. Les entreprises font face au même problème: les activitées de groupe, qui permetteraient une meilleur cohésion d'équipe, sont difficile à mettre en place.
