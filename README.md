@@ -1,1 +1,8 @@
-# FlashBam
+# Présentation du projet 'FlashBam'
+
+Pendant mes années de scoutisme, j'ai pu constater à quel point les jeux d'équipe permettent aux jeunes de s'intégrer, mais je sais aussi qu'ils sont difficile à organiser. Les entreprises font face au même problème: les activitées de groupe, qui permetteraient une meilleur cohésion d'équipe, sont difficile à mettre en place.
+
+Ainsi, il m'a semblé intéressant de développer une plateforme de jeux multijoueurs en réalité augmentée, afin de répondre à ce besoin. Il suffirait à chaque joueur de revêtir un t-shirt ou un badge avec un QRCode, de s'armer de son téléphone et de se laisser guider!
+Cette plateforme de jeux se destine avant tout à être une activité "fil rouge" pour les séminaires d'entreprises, et de permettre une meilleure connaissance de ses collègues. Elle pourra cependant aussi être accessible au grand public, afin de permettre d'animer des soirées étudiantes ou d'autres événements.
+
+Ce dossier contient le code de mon MVP, qui consiste en une application iOS, ainsi que mon business canva et mon business plan. 
