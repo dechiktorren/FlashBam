@@ -1,6 +1,6 @@
 # Presentation of the 'FlashBam' project
 
-During my years of scouting, I saw how team games allow young people to integrate, but I also know that they are difficult to organize. Companies face the same problem: group activities, which would allow better team cohesion, are difficult to set up.
+During my years as a boy scout, I saw how team games allow young people to integrate, but I also know that it is difficult to organize. Companies face the same problem: group activities, which would allow better team cohesion, are difficult to set up.
 
 Thus, it seemed interesting to me to develop a platform for multiplayer games in augmented reality, in order to meet this need. It would be enough for each player to put on a t-shirt or a badge with a QRCode, to arm his phone and to let himself be guided! This gaming platform is intended above all to be a "red thread" activity for business seminars, and to allow a better knowledge of colleagues. However, it may also be accessible to the general public, in order to facilitate student parties or other events.
 
